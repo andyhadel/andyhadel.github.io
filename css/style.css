@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+  background-color: purple;
+  color: white;
+  text-align: center;
+}
+
+a:link {
+	color: white;
+}
+
+a:hover {
+	color: yellow;
+}
+
+a:visited {
+	color: white;
+}
